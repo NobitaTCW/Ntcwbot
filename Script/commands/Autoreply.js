@@ -2,7 +2,7 @@ const fs = global.nodemodule["fs-extra"];
 const path = global.nodemodule["path"];
 
 module.exports.config = {
-  name: "autoreplybot",
+  name: "",
   version: "6.0.2",
   hasPermssion: 0,
   credits: "KING HASIB",
